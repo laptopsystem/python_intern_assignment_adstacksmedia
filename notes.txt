@@ -1,0 +1,8 @@
+
+---
+
+### Deliverables:
+1. **Python Script**: The above script creates and manages a virtual Android system.
+2. **README.md**: Instructions for setup, running the script, and retrieving system information.
+
+Let me know if you'd like help setting up the environment or with further refinements!

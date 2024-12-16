@@ -1,0 +1,5 @@
+sample_data = [
+    {"app_name": "Sample App 1", "version": "1.0", "description": "First sample application."},
+    {"app_name": "Sample App 2", "version": "2.0", "description": "Second sample application."},
+    {"app_name": "Sample App 3", "version": "3.0", "description": "Third sample application."}
+]

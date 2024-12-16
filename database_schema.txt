@@ -1,0 +1,7 @@
+Database Schema File:
+The database schema is represented by the AppDetails model in the code. It uses SQLAlchemy to define:
+
+id: Primary key, an auto-incrementing integer.
+app_name: String (100 characters), non-nullable.
+version: String (50 characters), non-nullable.
+description: String (255 characters), nullable.
